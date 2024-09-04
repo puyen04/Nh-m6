@@ -2,6 +2,8 @@
 Tạo một chương trình tính giá trị trung bình của một tập hợp các giá trị do người dùng nhập vào.
 Người dùng sẽ nhập 0 làm giá trị trọng điểm để cho biết rằng sẽ không cung cấp thêm giá trị nào. 
 Chương trình của bạn sẽ hiển thị thông báo lỗi thích hợp nếu giá trị đầu tiên được người dùng nhập là 0.
+
+đã dịch ra tiếng việt
 '''
 
 total = 0
